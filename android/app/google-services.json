@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207823148506",
+    "project_id": "poolingfyp",
+    "storage_bucket": "poolingfyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207823148506:android:e1dfc61e9b61cce9cf5ce3",
+        "android_client_info": {
+          "package_name": "com.fyp.poolingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH8k-sDNdVaehkNoEljiAlVE6xalIrXqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
